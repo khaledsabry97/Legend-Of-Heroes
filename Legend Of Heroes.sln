@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legend Of Heroes", "Assembly-CSharp.csproj", "{D70D27B6-DC8C-1AE6-9BC8-975B9AA48364}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legend Of Heroes", "Assembly-CSharp-firstpass.csproj", "{9292FA1F-6746-E40F-2372-F9B661D6344D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Legend Of Heroes", "Assembly-CSharp-Editor-firstpass.csproj", "{9273A3F0-4BD7-D705-BCD3-3F8178CB2F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70D27B6-DC8C-1AE6-9BC8-975B9AA48364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70D27B6-DC8C-1AE6-9BC8-975B9AA48364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70D27B6-DC8C-1AE6-9BC8-975B9AA48364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70D27B6-DC8C-1AE6-9BC8-975B9AA48364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9292FA1F-6746-E40F-2372-F9B661D6344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9292FA1F-6746-E40F-2372-F9B661D6344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9292FA1F-6746-E40F-2372-F9B661D6344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9292FA1F-6746-E40F-2372-F9B661D6344D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9273A3F0-4BD7-D705-BCD3-3F8178CB2F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9273A3F0-4BD7-D705-BCD3-3F8178CB2F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9273A3F0-4BD7-D705-BCD3-3F8178CB2F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9273A3F0-4BD7-D705-BCD3-3F8178CB2F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
